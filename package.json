@@ -21,7 +21,7 @@
     },
     "scripts": {
         "dev": "next dev -p 8090",
-        "build": "next build && next export -o build/",
+        "build": "next build ",
         "start": "next start -p 8090",
         "lint": "next lint"
     }
